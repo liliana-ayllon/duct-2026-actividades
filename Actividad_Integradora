@@ -1,7 +1,0 @@
-# duct-2026-actividades
-Actividades y ejercicios de Python # Módulo 4 — Actividad Integradora de la Diplomatura Universitaria en Competencias Técnicas para Profesionales de Idiomas: genIA, Data y Programación. UNC, 2026.
-# Autora: Liliana Beatriz Ayllón Hernández
-
-El programa lee `texto_integradora.txt` y cuenta las palabras sin distinguir mayúsculas de minúsculas.
-Guarda dos gráficos: las 10 palabras más frecuentes y las 10 más frecuentes sin palabras vacías.
-Requisitos: Python 3, Matplotlib para los gráficos y pytest para ejecutar las pruebas.
